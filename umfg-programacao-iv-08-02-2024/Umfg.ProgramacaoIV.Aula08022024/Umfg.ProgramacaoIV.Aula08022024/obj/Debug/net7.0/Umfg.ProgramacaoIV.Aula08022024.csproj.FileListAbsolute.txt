@@ -1,0 +1,15 @@
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\bin\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.exe
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\bin\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.deps.json
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\bin\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.runtimeconfig.json
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\bin\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.dll
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\bin\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.pdb
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.csproj.AssemblyReference.cache
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.GeneratedMSBuildEditorConfig.editorconfig
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.AssemblyInfoInputs.cache
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.AssemblyInfo.cs
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.csproj.CoreCompileInputs.cache
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.dll
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\refint\Umfg.ProgramacaoIV.Aula08022024.dll
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.pdb
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\Umfg.ProgramacaoIV.Aula08022024.genruntimeconfig.cache
+L:\LAB04\ADS\programacao iv\repositorios\umfg-programacao-iv-08-02-2024\Umfg.ProgramacaoIV.Aula08022024\Umfg.ProgramacaoIV.Aula08022024\obj\Debug\net7.0\ref\Umfg.ProgramacaoIV.Aula08022024.dll
